@@ -1,0 +1,3 @@
+PyMuPDF
+jsonschema
+scikit-learn # optional, for ML-based heading classification 
