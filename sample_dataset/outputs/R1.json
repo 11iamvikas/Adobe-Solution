@@ -1,0 +1,165 @@
+{
+  "title": "Lei Li",
+  "outline": [
+    {
+      "text": "Research on Machine Learning Algorithms",
+      "page": 1,
+      "level": "H1"
+    },
+    {
+      "text": "and Feature Extraction for Time Series",
+      "page": 1,
+      "level": "H1"
+    },
+    {
+      "text": "Lei Li",
+      "page": 1,
+      "level": "H3"
+    },
+    {
+      "text": "2017 IEEE",
+      "page": 1,
+      "level": "H3"
+    },
+    {
+      "text": "F. Model Algorithms",
+      "page": 2,
+      "level": "H3"
+    },
+    {
+      "text": "1) SVM:",
+      "page": 2,
+      "level": "H3"
+    },
+    {
+      "text": "2) RNN:",
+      "page": 2,
+      "level": "H3"
+    },
+    {
+      "text": "3) LSTM:",
+      "page": 2,
+      "level": "H3"
+    },
+    {
+      "text": "Experimental design",
+      "page": 2,
+      "level": "H3"
+    },
+    {
+      "text": "Experimental results and analysis",
+      "page": 3,
+      "level": "H3"
+    },
+    {
+      "text": "1) Experiment 1:",
+      "page": 3,
+      "level": "H3"
+    },
+    {
+      "text": "TABLE II",
+      "page": 3,
+      "level": "H3"
+    },
+    {
+      "text": "SVM LSTM RNN SVM LSTM RNN SVM LSTM RNN",
+      "page": 3,
+      "level": "H3"
+    },
+    {
+      "text": "2) Experiment 2:",
+      "page": 3,
+      "level": "H3"
+    },
+    {
+      "text": "TABLE III",
+      "page": 3,
+      "level": "H3"
+    },
+    {
+      "text": "SVM LSTM RNN SVM LSTM RNN SVM LSTM RNN",
+      "page": 3,
+      "level": "H3"
+    },
+    {
+      "text": "3) Experiment 3:",
+      "page": 3,
+      "level": "H3"
+    },
+    {
+      "text": "TABLE IV",
+      "page": 3,
+      "level": "H3"
+    },
+    {
+      "text": "SVM LSTM RNN SVM LSTM RNN SVM LSTM RNN",
+      "page": 3,
+      "level": "H3"
+    },
+    {
+      "text": "4) Experiment 4:",
+      "page": 4,
+      "level": "H3"
+    },
+    {
+      "text": "TABLE VII",
+      "page": 5,
+      "level": "H3"
+    },
+    {
+      "text": "RESULTS OF FUSION ALGORITHMS",
+      "page": 5,
+      "level": "H3"
+    },
+    {
+      "text": "Time Series Analysis Simple Course",
+      "page": 5,
+      "level": "H3"
+    },
+    {
+      "text": "Tsinghua Univer-",
+      "page": 5,
+      "level": "H3"
+    },
+    {
+      "text": "Application Time Series Analysis",
+      "page": 5,
+      "level": "H3"
+    },
+    {
+      "text": "Ordnance Industry Automation",
+      "page": 5,
+      "level": "H3"
+    },
+    {
+      "text": "Chemometrics and intelligent laboratory systems",
+      "page": 5,
+      "level": "H3"
+    },
+    {
+      "text": "Chinese Association",
+      "page": 5,
+      "level": "H3"
+    },
+    {
+      "text": "IEEE Transactions on Emerging Topics in Computing",
+      "page": 5,
+      "level": "H3"
+    },
+    {
+      "text": "Science of Surveying and Mapping",
+      "page": 5,
+      "level": "H3"
+    },
+    {
+      "text": "Statistical Learning Method",
+      "page": 5,
+      "level": "H3"
+    },
+    {
+      "text": "Machine Learning",
+      "page": 5,
+      "level": "H3"
+    }
+  ]
+}

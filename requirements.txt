@@ -1,3 +1,4 @@
-PyMuPDF
-jsonschema
+pymupdf
+numpy
+nltk
 scikit-learn # optional, for ML-based heading classification 

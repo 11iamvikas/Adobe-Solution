@@ -1,30 +1,300 @@
 {
-  "title": "RFP: Request f",
+  "title": "RFP: R",
   "outline": [
     {
-      "level": "H2",
+      "text": "Working Together",
+      "page": 1,
+      "level": "H2"
+    },
+    {
+      "text": "RFP: R",
+      "page": 1,
+      "level": "H1"
+    },
+    {
+      "text": "RFP: R",
+      "page": 1,
+      "level": "H1"
+    },
+    {
+      "text": "RFP: R",
+      "page": 1,
+      "level": "H1"
+    },
+    {
+      "text": "RFP: Request f",
+      "page": 1,
+      "level": "H1"
+    },
+    {
+      "text": "quest f",
+      "page": 1,
+      "level": "H1"
+    },
+    {
+      "text": "quest f",
+      "page": 1,
+      "level": "H1"
+    },
+    {
+      "text": "quest for Pr",
+      "page": 1,
+      "level": "H1"
+    },
+    {
+      "text": "r Pr",
+      "page": 1,
+      "level": "H1"
+    },
+    {
+      "text": "r Pr",
+      "page": 1,
+      "level": "H1"
+    },
+    {
+      "text": "r Proposal",
+      "page": 1,
+      "level": "H1"
+    },
+    {
+      "text": "oposal",
+      "page": 1,
+      "level": "H1"
+    },
+    {
+      "text": "oposal",
+      "page": 1,
+      "level": "H1"
+    },
+    {
+      "text": "oposal",
+      "page": 1,
+      "level": "H1"
+    },
+    {
       "text": "To Present a Proposal for Developing",
-      "page": 1
+      "page": 1,
+      "level": "H1"
     },
     {
-      "level": "H2",
-      "text": "the Business Plan for the Ontario",
-      "page": 1
-    },
-    {
-      "level": "H2",
       "text": "Digital Library",
-      "page": 1
+      "page": 1,
+      "level": "H1"
     },
     {
-      "level": "H3",
       "text": "March 21, 2003",
-      "page": 1
+      "page": 1,
+      "level": "H1"
     },
     {
-      "level": "H3",
-      "text": "Ontario’s Digital Library",
-      "page": 2
+      "text": "Ontario\u2019s Digital Library",
+      "page": 2,
+      "level": "H1"
+    },
+    {
+      "text": "Prosperity Strategy",
+      "page": 2,
+      "level": "H2"
+    },
+    {
+      "text": "April 11",
+      "page": 2,
+      "level": "H3"
+    },
+    {
+      "text": "100 Lombard",
+      "page": 2,
+      "level": "H3"
+    },
+    {
+      "text": "April 28, 2003",
+      "page": 2,
+      "level": "H3"
+    },
+    {
+      "text": "May 5, 2003",
+      "page": 2,
+      "level": "H3"
+    },
+    {
+      "text": "March 2003",
+      "page": 2,
+      "level": "H3"
+    },
+    {
+      "text": "March 2003",
+      "page": 3,
+      "level": "H3"
+    },
+    {
+      "text": "March 2003",
+      "page": 4,
+      "level": "H3"
+    },
+    {
+      "text": "Provincial Purchasing & Licensing:",
+      "page": 5,
+      "level": "H3"
+    },
+    {
+      "text": "Technological Support:",
+      "page": 5,
+      "level": "H3"
+    },
+    {
+      "text": "March 2003",
+      "page": 5,
+      "level": "H3"
+    },
+    {
+      "text": "March 2003",
+      "page": 6,
+      "level": "H3"
+    },
+    {
+      "text": "The proposal must",
+      "page": 7,
+      "level": "H3"
+    },
+    {
+      "text": "March 2003",
+      "page": 7,
+      "level": "H3"
+    },
+    {
+      "text": "March 2003",
+      "page": 8,
+      "level": "H3"
+    },
+    {
+      "text": "Phase I:  Business Planning",
+      "page": 9,
+      "level": "H3"
+    },
+    {
+      "text": "March 2003 \u2013 September 2003",
+      "page": 9,
+      "level": "H3"
+    },
+    {
+      "text": "Funding Requested:",
+      "page": 9,
+      "level": "H3"
+    },
+    {
+      "text": "The ODL business plan",
+      "page": 9,
+      "level": "H3"
+    },
+    {
+      "text": "April 2004 \u2013 December 2006",
+      "page": 9,
+      "level": "H3"
+    },
+    {
+      "text": "Funding Requested:",
+      "page": 9,
+      "level": "H3"
+    },
+    {
+      "text": "January 2007 -",
+      "page": 9,
+      "level": "H3"
+    },
+    {
+      "text": "The ODL is fully operational and sustainable",
+      "page": 9,
+      "level": "H3"
+    },
+    {
+      "text": "March 2003",
+      "page": 9,
+      "level": "H3"
+    },
+    {
+      "text": "March 2003",
+      "page": 10,
+      "level": "H3"
+    },
+    {
+      "text": "Appendix B:",
+      "page": 11,
+      "level": "H3"
+    },
+    {
+      "text": "1. Preamble",
+      "page": 11,
+      "level": "H3"
+    },
+    {
+      "text": "3. Membership",
+      "page": 11,
+      "level": "H3"
+    },
+    {
+      "text": "Executive Council of OSLA to name representative in",
+      "page": 11,
+      "level": "H3"
+    },
+    {
+      "text": "OCUL to name",
+      "page": 11,
+      "level": "H3"
+    },
+    {
+      "text": "March 2003",
+      "page": 11,
+      "level": "H3"
+    },
+    {
+      "text": "OLA to appoint one representative",
+      "page": 12,
+      "level": "H3"
+    },
+    {
+      "text": "5. Term",
+      "page": 12,
+      "level": "H3"
+    },
+    {
+      "text": "6. Chair",
+      "page": 12,
+      "level": "H3"
+    },
+    {
+      "text": "7. Meetings",
+      "page": 12,
+      "level": "H3"
+    },
+    {
+      "text": "March 2003",
+      "page": 12,
+      "level": "H3"
+    },
+    {
+      "text": "March 2003",
+      "page": 13,
+      "level": "H3"
+    },
+    {
+      "text": "Appendix C:",
+      "page": 14,
+      "level": "H3"
+    },
+    {
+      "text": "1. Reference Resources",
+      "page": 14,
+      "level": "H3"
+    },
+    {
+      "text": "2. Subject Guides",
+      "page": 14,
+      "level": "H3"
+    },
+    {
+      "text": "March 2003",
+      "page": 14,
+      "level": "H3"
     }
   ]
 }

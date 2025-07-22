@@ -1,0 +1,220 @@
+{
+  "title": "Using Deep Learning",
+  "outline": [
+    {
+      "text": "Digital Object Identifier 10.1109/ACCESS.2022.3226682",
+      "page": 1,
+      "level": "H3"
+    },
+    {
+      "text": "A Survey on Waste Detection and Classification",
+      "page": 1,
+      "level": "H1"
+    },
+    {
+      "text": "Using Deep Learning",
+      "page": 1,
+      "level": "H1"
+    },
+    {
+      "text": "HARUNA ABDU AND MOHD HALIM MOHD NOOR",
+      "page": 1,
+      "level": "H3"
+    },
+    {
+      "text": "INDEX TERMS",
+      "page": 1,
+      "level": "H3"
+    },
+    {
+      "text": "I. INTRODUCTION",
+      "page": 1,
+      "level": "H3"
+    },
+    {
+      "text": "II. IMAGE CLASSIFICATION AND OBJECT DETECTION",
+      "page": 3,
+      "level": "H3"
+    },
+    {
+      "text": "G. R-CNN, OR REGIONS WITH CNN FEATURES",
+      "page": 5,
+      "level": "H3"
+    },
+    {
+      "text": "H. YOLO",
+      "page": 5,
+      "level": "H3"
+    },
+    {
+      "text": "III. WASTE DETECTION AND CLASSIFICATION",
+      "page": 6,
+      "level": "H3"
+    },
+    {
+      "text": "A. WASTE DETECTION",
+      "page": 6,
+      "level": "H3"
+    },
+    {
+      "text": "B. WASTE CLASSIFICATION",
+      "page": 7,
+      "level": "H3"
+    },
+    {
+      "text": "IV. BENCHMARK TRASH DATASET",
+      "page": 9,
+      "level": "H3"
+    },
+    {
+      "text": "A. TRASHNET DATASET [64]",
+      "page": 9,
+      "level": "H3"
+    },
+    {
+      "text": "E. WADABA [84]",
+      "page": 11,
+      "level": "H3"
+    },
+    {
+      "text": "F. GLASSENSE-VISION [85]",
+      "page": 11,
+      "level": "H3"
+    },
+    {
+      "text": "I. WASTE PICTURES [88]",
+      "page": 11,
+      "level": "H3"
+    },
+    {
+      "text": "M. CIGARETTE BUTT DATASET [97]",
+      "page": 12,
+      "level": "H3"
+    },
+    {
+      "text": "V. CHALLENGES OF WASTE DETECTION AND",
+      "page": 12,
+      "level": "H3"
+    },
+    {
+      "text": "A. LIGHTNING CONDITION",
+      "page": 12,
+      "level": "H3"
+    },
+    {
+      "text": "B. INSUFFICIENT DATA",
+      "page": 12,
+      "level": "H3"
+    },
+    {
+      "text": "Res. Public Health",
+      "page": 13,
+      "level": "H3"
+    },
+    {
+      "text": "Waste Manage. Res., J. Sus-",
+      "page": 13,
+      "level": "H3"
+    },
+    {
+      "text": "Infocom Technol. Optim. Trends Future Directions (ICRITO)",
+      "page": 13,
+      "level": "H3"
+    },
+    {
+      "text": "Ecological Indicators",
+      "page": 13,
+      "level": "H3"
+    },
+    {
+      "text": "Integrated Solid Waste Management: A Lifecycle",
+      "page": 13,
+      "level": "H3"
+    },
+    {
+      "text": "Energy Convers. Manage.",
+      "page": 13,
+      "level": "H3"
+    },
+    {
+      "text": "Pattern Anal. Mach. Intell.",
+      "page": 13,
+      "level": "H3"
+    },
+    {
+      "text": "Environ. Monit. Assessment",
+      "page": 13,
+      "level": "H3"
+    },
+    {
+      "text": "Case Stud. Chem. Environ. Eng.",
+      "page": 14,
+      "level": "H3"
+    },
+    {
+      "text": "J. Real-Time Image",
+      "page": 14,
+      "level": "H3"
+    },
+    {
+      "text": "IEEE Access",
+      "page": 14,
+      "level": "H3"
+    },
+    {
+      "text": "Conf. Big Data (Big Data)",
+      "page": 14,
+      "level": "H3"
+    },
+    {
+      "text": "Glassense-Vision Dataset",
+      "page": 14,
+      "level": "H3"
+    },
+    {
+      "text": "Open Geospatial Data, Softw. Stan-",
+      "page": 14,
+      "level": "H3"
+    },
+    {
+      "text": "Waste Classi\ufb01cation Data | Kaggle",
+      "page": 14,
+      "level": "H3"
+    },
+    {
+      "text": "Waste Images From Sushi Restaurant | Kaggle",
+      "page": 14,
+      "level": "H3"
+    },
+    {
+      "text": "Drinking Waste Classi\ufb01cation | Kaggle",
+      "page": 15,
+      "level": "H3"
+    },
+    {
+      "text": "Garbage | Kaggle",
+      "page": 15,
+      "level": "H3"
+    },
+    {
+      "text": "Cigarette Butt Dataset\u2014Immersive Limit",
+      "page": 15,
+      "level": "H3"
+    },
+    {
+      "text": "Geolocated Images",
+      "page": 15,
+      "level": "H3"
+    },
+    {
+      "text": "Waste Manag.",
+      "page": 15,
+      "level": "H3"
+    },
+    {
+      "text": "Waste Manag.",
+      "page": 15,
+      "level": "H3"
+    }
+  ]
+}

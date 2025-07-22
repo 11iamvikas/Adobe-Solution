@@ -1,20 +1,30 @@
 {
-  "title": "Parsippany -Troy Hills STEM Pathways",
+  "title": "Mission Statement:",
   "outline": [
     {
-      "level": "H3",
+      "text": "Parsippany -Troy Hills STEM Pathways",
+      "page": 1,
+      "level": "H1"
+    },
+    {
+      "text": "Mission Statement:",
+      "page": 1,
+      "level": "H2"
+    },
+    {
       "text": "PATHWAY OPTIONS",
-      "page": 1
+      "page": 1,
+      "level": "H2"
     },
     {
-      "level": "H2",
       "text": "REGULAR PATHWAY",
-      "page": 1
+      "page": 1,
+      "level": "H2"
     },
     {
-      "level": "H2",
       "text": "DISTINCTION PATHWAY",
-      "page": 1
+      "page": 1,
+      "level": "H2"
     }
   ]
 }
