@@ -31,7 +31,7 @@ Challenge_1a/
 
 ## How It Works
 
-### Main Script: `process_pdfs.py`
+### Main Script: `process.py`
 - **extract_text_blocks(pdf_path):** Extracts all text blocks from each page, capturing text, font size, font flags (bold/italic), and position.
 - **detect_title(blocks):** Finds the largest, centered text block on the first 1–2 pages as the document title.
 - **classify_headings(blocks):** Classifies headings into H1, H2, H3 based on font size and boldness heuristics.
@@ -69,6 +69,10 @@ docker run --rm ^
 
 ### 3. Check the Output
 - Output JSON files will be in `sample_dataset/outputs`, one per input PDF.
+
+### Command to run Process.py
+Go to smart_pdf_processor directory
+Run the command - python process.py
 
 ## Output Format
 Each output JSON matches the schema in `sample_dataset/schema/output_schema.json`:
